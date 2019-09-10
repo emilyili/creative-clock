@@ -1,10 +1,10 @@
 function setup() {
-	  createCanvas(600,600); 
+    createCanvas(600,600); 
     noStroke();
 }
 
 function draw() {
-	  background(255);
+	background(255);
   
     // hours
     fill(60);
